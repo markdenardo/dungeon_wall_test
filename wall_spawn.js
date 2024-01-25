@@ -28,8 +28,9 @@ function sameMembers(arr1, arr2) {
 
 function setup() {
   createCanvas(400, 400);
+  spawn();
 }
 
 function draw() {
-  spawn();
+  
 }
