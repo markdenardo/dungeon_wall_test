@@ -32,5 +32,6 @@ function setup() {
 }
 
 function draw() {
-  
+  circle(x+100, y+100, 100)
+  circle(x1+100, y1+100,100)
 }
